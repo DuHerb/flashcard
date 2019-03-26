@@ -3,4 +3,8 @@
 }
 .card {
   margin: 10px 6px;
+  height: 300px;
+}
+.card-body {
+  overflow: scroll;
 }
